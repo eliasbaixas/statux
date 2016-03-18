@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Statux::VERSION
   s.authors     = ["Elias Baixas"]
   s.email       = ["elias.baixas@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Statux."
-  s.description = "TODO: Description of Statux."
+  s.homepage    = "http://algo.com"
+  s.summary     = "algo: Summary of Statux."
+  s.description = "algo: Description of Statux."
   s.license     = "none"
 
   s.files = Dir["{app,config,db,lib}/**/*", "Rakefile", "README.rdoc"]
